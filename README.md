@@ -86,7 +86,7 @@ cd ar-whack-a-mole
 | Mole | Pop Height | 0.08 |
 | Mole | Move Speed | 3 |
 | Mole | Visible Time | 2.0 |
-| Mole | Pop Direction | X=0, Y=1, Z=0 |
+| Mole | Pop Direction | X=0, Y=0, Z=1 |
 
 ---
 
